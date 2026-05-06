@@ -1,0 +1,18 @@
+{
+  "name": "Өдрийн Дадал",
+  "short_name": "Дадал",
+  "description": "Өдрийн зуршил хянагч",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0e0c",
+  "theme_color": "#e8c547",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
